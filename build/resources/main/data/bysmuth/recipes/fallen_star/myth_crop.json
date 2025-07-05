@@ -1,0 +1,16 @@
+{
+  "type": "bysmuth:item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    }
+  ],
+  "results": [
+    {
+      "item": "bysmuth:myth_seeds"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "bysmuth:advanced_item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "item": "minecraft:amethyst_block"
+    },
+    {
+      "item": "minecraft:red_stained_glass"
+    },
+    {
+      "item": "minecraft:red_stained_glass"
+    },
+    {
+      "item": "minecraft:red_stained_glass"
+    }
+  ],
+  "results": [
+    {
+      "item": "bysmuth:ruby"
+    }
+  ]
+}

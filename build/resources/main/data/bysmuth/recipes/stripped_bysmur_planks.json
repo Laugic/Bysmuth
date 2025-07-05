@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bysmuth:stripped_bysmur_log"
+    }
+  ],
+  "result": {
+    "item": "bysmuth:bysmur_planks",
+    "count": 4
+  }
+}

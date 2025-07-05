@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "bysmuth:bysmur_log",
+    "bysmuth:bysmur_wood",
+    "bysmuth:stripped_bysmur_log",
+    "bysmuth:stripped_bysmur_wood"
+  ]
+}

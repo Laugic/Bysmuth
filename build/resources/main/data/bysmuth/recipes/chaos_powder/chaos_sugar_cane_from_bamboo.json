@@ -1,0 +1,16 @@
+{
+  "type": "bysmuth:item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:chaos_powder"
+    },
+    {
+      "item": "minecraft:bamboo"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:sugar_cane"
+    }
+  ]
+}

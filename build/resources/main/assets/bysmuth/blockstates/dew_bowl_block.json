@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "full=false": { "model": "bysmuth:block/dew_bowl_block_empty" },
+    "full=true": { "model": "bysmuth:block/dew_bowl_block_full" }
+  }
+}

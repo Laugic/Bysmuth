@@ -1,0 +1,29 @@
+{
+  "type": "bysmuth:advanced_item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "item": "minecraft:bookshelf"
+    },
+    {
+      "item": "minecraft:barrel"
+    },
+    {
+      "item": "minecraft:lapis_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1
+    }
+  ],
+  "enchantments": [
+    { "id": "minecraft:luck_of_the_sea", "level": 3 }
+  ]
+}

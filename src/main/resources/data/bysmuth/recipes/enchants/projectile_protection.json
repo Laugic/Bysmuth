@@ -1,0 +1,29 @@
+{
+  "type": "bysmuth:advanced_item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "item": "minecraft:bookshelf"
+    },
+    {
+      "item": "minecraft:target"
+    },
+    {
+      "item": "minecraft:smithing_table"
+    },
+    {
+      "item": "minecraft:iron_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1
+    }
+  ],
+  "enchantments": [
+    { "id": "minecraft:projectile_protection", "level": 4 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "bysmuth:item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "tag": "minecraft:saplings"
+    }
+  ],
+  "results": [
+    {
+      "item": "bysmuth:bysmur_sapling"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "bysmuth:block_recipe",
+  "ingredients": [
+    {
+      "item": "bysmuth:aquafir"
+    },
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:clay"
+    }
+  ]
+}

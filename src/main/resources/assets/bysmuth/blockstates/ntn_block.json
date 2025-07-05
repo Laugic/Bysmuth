@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "bysmuth:block/ntn_block" }
+  }
+}

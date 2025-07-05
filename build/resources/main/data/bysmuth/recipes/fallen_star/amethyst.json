@@ -1,0 +1,16 @@
+{
+  "type": "bysmuth:item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "item": "minecraft:amethyst_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:budding_amethyst"
+    }
+  ]
+}

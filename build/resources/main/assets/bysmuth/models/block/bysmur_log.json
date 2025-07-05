@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "bysmuth:block/bysmur_log_top",
+    "side": "bysmuth:block/bysmur_log"
+  }
+}

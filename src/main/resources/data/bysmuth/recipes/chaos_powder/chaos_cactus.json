@@ -1,0 +1,22 @@
+{
+  "type": "bysmuth:advanced_item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:chaos_powder"
+    },
+    {
+      "item": "minecraft:melon"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:cactus"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "bysmuth:advanced_item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "item": "bysmuth:bysmuth_chunk_block"
+    },
+    {
+      "item": "minecraft:diamond_block"
+    },
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:amethyst_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "bysmuth:bysmuth_block",
+      "count": 1
+    }
+  ]
+}

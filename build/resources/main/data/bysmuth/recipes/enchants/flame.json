@@ -1,0 +1,29 @@
+{
+  "type": "bysmuth:advanced_item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "item": "minecraft:bookshelf"
+    },
+    {
+      "item": "minecraft:campfire"
+    },
+    {
+      "item": "minecraft:magma_block"
+    },
+    {
+      "item": "minecraft:smoker"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1
+    }
+  ],
+  "enchantments": [
+    { "id": "minecraft:flame", "level": 1 }
+  ]
+}

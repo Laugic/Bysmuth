@@ -1,0 +1,16 @@
+{
+  "type": "bysmuth:item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "item": "minecraft:melon"
+    }
+  ],
+  "results": [
+    {
+      "item": "bysmuth:stranglevine"
+    }
+  ]
+}

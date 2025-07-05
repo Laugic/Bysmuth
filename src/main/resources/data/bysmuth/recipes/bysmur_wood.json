@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GG",
+    "GG"
+  ],
+  "key": {
+    "G": {
+      "item": "bysmuth:bysmur_log"
+    }
+  },
+  "result": {
+    "item": "bysmuth:bysmur_wood",
+    "count": 3
+  }
+}

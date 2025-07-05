@@ -1,0 +1,29 @@
+{
+  "type": "bysmuth:advanced_item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "item": "minecraft:bookshelf"
+    },
+    {
+      "item": "minecraft:oxidized_copper"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    },
+    {
+      "item": "minecraft:oxidized_copper"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1
+    }
+  ],
+  "enchantments": [
+    { "id": "minecraft:loyalty", "level": 3 }
+  ]
+}

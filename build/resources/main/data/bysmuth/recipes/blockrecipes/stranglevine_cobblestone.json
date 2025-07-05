@@ -1,0 +1,16 @@
+{
+  "type": "bysmuth:block_recipe",
+  "ingredients": [
+    {
+      "item": "bysmuth:stranglevine"
+    },
+    {
+      "item": "minecraft:andesite"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:cobblestone"
+    }
+  ]
+}

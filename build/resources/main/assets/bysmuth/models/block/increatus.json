@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "bysmuth:block/increatus_top",
+    "north": "bysmuth:block/increatus_side",
+    "south": "bysmuth:block/increatus_side",
+    "east": "bysmuth:block/increatus_side",
+    "west": "bysmuth:block/increatus_side",
+    "up": "bysmuth:block/increatus_top",
+    "down": "bysmuth:block/increatus_bottom"
+  }
+}

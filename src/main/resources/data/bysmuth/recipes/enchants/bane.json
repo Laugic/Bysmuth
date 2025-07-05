@@ -1,0 +1,29 @@
+{
+  "type": "bysmuth:advanced_item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "item": "minecraft:bookshelf"
+    },
+    {
+      "item": "minecraft:grindstone"
+    },
+    {
+      "item": "minecraft:copper_block"
+    },
+    {
+      "item": "minecraft:cobweb"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:enchanted_book",
+      "count": 1
+    }
+  ],
+  "enchantments": [
+    { "id": "minecraft:bane_of_arthropods", "level": 5 }
+  ]
+}

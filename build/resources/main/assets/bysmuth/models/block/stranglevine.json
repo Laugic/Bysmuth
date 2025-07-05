@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "bysmuth:block/stranglevine_top",
+    "side": "bysmuth:block/stranglevine_side"
+  }
+}

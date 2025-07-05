@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GGG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "tag": "minecraft:leaves"
+    }
+  },
+  "result": {
+    "item": "bysmuth:packed_leaves",
+    "count": 1
+  }
+}

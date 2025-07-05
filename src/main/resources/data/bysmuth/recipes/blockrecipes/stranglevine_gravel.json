@@ -1,0 +1,16 @@
+{
+  "type": "bysmuth:block_recipe",
+  "ingredients": [
+    {
+      "item": "bysmuth:stranglevine"
+    },
+    {
+      "item": "minecraft:tuff"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:gravel"
+    }
+  ]
+}

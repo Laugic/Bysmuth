@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "bysmuth:block/stripped_bysmur_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "bysmuth:block/stripped_bysmur_log"
+    },
+    "axis=z": {
+      "model": "bysmuth:block/stripped_bysmur_log_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CSC",
+    "SCS",
+    "CSC"
+  ],
+  "key": {
+    "S": {
+      "tag": "minecraft:sand"
+    },
+    "C": {
+      "item": "bysmuth:chaos_powder"
+    }
+  },
+  "result": {
+    "item": "bysmuth:ntn_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": { "model": "bysmuth:block/myth_stage0" },
+    "age=1": { "model": "bysmuth:block/myth_stage1" },
+    "age=2": { "model": "bysmuth:block/myth_stage1" },
+    "age=3": { "model": "bysmuth:block/myth_stage2" },
+    "age=4": { "model": "bysmuth:block/myth_stage3" },
+    "age=5": { "model": "bysmuth:block/myth_stage3" },
+    "age=6": { "model": "bysmuth:block/myth_stage4" },
+    "age=7": { "model": "bysmuth:block/myth_stage5" }
+  }
+}

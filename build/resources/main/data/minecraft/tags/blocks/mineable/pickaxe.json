@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "bysmuth:crucible_block",
+    "bysmuth:crucible_block_full_water",
+    "bysmuth:crucible_block_full_lava",
+    "bysmuth:increatus"
+  ]
+}

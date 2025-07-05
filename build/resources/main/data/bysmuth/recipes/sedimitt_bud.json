@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "A"
+  ],
+  "key": {
+    "C": {
+      "item": "bysmuth:bysmuth_chunk"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "bysmuth:sedimitt_bud",
+    "count": 1
+  }
+}

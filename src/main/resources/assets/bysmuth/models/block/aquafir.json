@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "bysmuth:block/aquafir_bowl",
+		"1": "bysmuth:block/aquafir_plant",
+		"particle": "bysmuth:block/aquafir_bowl"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 2, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, 6]},
+			"faces": {
+				"north": {"uv": [0, 14, 4, 16], "texture": "#0"},
+				"east": {"uv": [4, 14, 8, 16], "texture": "#0"},
+				"south": {"uv": [8, 14, 12, 16], "texture": "#0"},
+				"west": {"uv": [12, 14, 16, 16], "texture": "#0"},
+				"up": {"uv": [6, 6, 10, 10], "texture": "#0"},
+				"down": {"uv": [6, 6, 10, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "aquafir",
+			"from": [4, 2, 4],
+			"to": [4, 16, 16],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4, 2, 4]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 14], "texture": "#missing"},
+				"east": {"uv": [2, 2, 14, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 14], "texture": "#missing"},
+				"west": {"uv": [2, 2, 14, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 12], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 12], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "aquafir",
+			"from": [12, 2, 4],
+			"to": [12, 16, 16],
+			"rotation": {"angle": -45, "axis": "y", "origin": [12, 2, 4]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 14], "texture": "#missing"},
+				"east": {"uv": [2, 2, 14, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 14], "texture": "#missing"},
+				"west": {"uv": [2, 2, 14, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 12], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 12], "texture": "#missing"}
+			}
+		}
+	]
+}

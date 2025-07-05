@@ -1,0 +1,16 @@
+{
+  "type": "bysmuth:block_recipe",
+  "ingredients": [
+    {
+      "item": "bysmuth:aquafir"
+    },
+    {
+      "item": "minecraft:tuff"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:prismarine"
+    }
+  ]
+}

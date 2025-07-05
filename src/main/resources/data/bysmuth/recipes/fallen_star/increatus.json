@@ -1,0 +1,26 @@
+{
+  "type": "bysmuth:advanced_item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "item": "minecraft:amethyst_block"
+    },
+    {
+      "item": "minecraft:enchanting_table"
+    },
+    {
+      "item": "minecraft:piston"
+    },
+    {
+      "item": "minecraft:crafting_table"
+    }
+  ],
+  "results": [
+    {
+      "item": "bysmuth:increatus",
+      "count": 1
+    }
+  ]
+}
