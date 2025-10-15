@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "bysmuth:block/mirrobserver" },
+    "powered=true": { "model": "bysmuth:block/mirrobserver_on" }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bysmuth:thulite_block"
+    }
+  ],
+  "result": {
+    "item": "bysmuth:thulite",
+    "count": 9
+  }
+}

@@ -53,7 +53,7 @@ public class ModBlocks {
                     .strength(.25f, 0f)), CreativeModeTab.TAB_MISC);
 
     public static final RegistryObject<Block> Sedimitt = registerBlockNoItem("sedimitt_block",
-            () -> new Sedimitt(BlockBehaviour.Properties.of(Material.VEGETABLE).randomTicks().sound(SoundType.AMETHYST)
+            () -> new Sedimitt(BlockBehaviour.Properties.of(Material.VEGETABLE).randomTicks().sound(SoundType.WOOD)
                     .strength(.25f, 0f)));
 
     public static final RegistryObject<Block> SedimittBud = registerBlockNoItem("sedimitt_bud",
@@ -61,6 +61,10 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> Increatus = registerBlock("increatus",
             () -> new Increatus(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.STONE)
+                    .strength(.5f, .5f)), CreativeModeTab.TAB_MISC);
+
+    public static final RegistryObject<Block> Mirrobserver = registerBlock("mirrobserver",
+            () -> new Mirrobserver(BlockBehaviour.Properties.of(Material.AMETHYST).sound(SoundType.AMETHYST)
                     .strength(.5f, .5f)), CreativeModeTab.TAB_MISC);
 
     public static final RegistryObject<Block> Bysmur_Log = registerBlock("bysmur_log",
@@ -88,6 +92,58 @@ public class ModBlocks {
                     .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
 
     public static final RegistryObject<Block> Bysmuth_Block = registerBlock("bysmuth_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST)
+                    .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+    public static final RegistryObject<Block> Opal_Block = registerBlock("opal_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST)
+                    .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+    public static final RegistryObject<Block> Thulite_Block = registerBlock("thulite_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST)
+                    .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+    public static final RegistryObject<Block> Rhodonite_Block = registerBlock("rhodonite_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST)
+                    .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+    public static final RegistryObject<Block> Ruby_Block = registerBlock("ruby_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST)
+                    .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+    public static final RegistryObject<Block> Sapphire_Block = registerBlock("sapphire_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST)
+                    .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+    public static final RegistryObject<Block> Azurite_Block = registerBlock("azurite_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST)
+                    .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+    public static final RegistryObject<Block> Jade_Block = registerBlock("jade_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST)
+                    .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+    public static final RegistryObject<Block> Amber_Block = registerBlock("amber_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST)
+                    .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+    public static final RegistryObject<Block> Topaz_Block = registerBlock("topaz_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST)
+                    .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+    public static final RegistryObject<Block> Bronzite_Block = registerBlock("bronzite_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST)
+                    .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+    public static final RegistryObject<Block> Onyx_Block = registerBlock("onyx_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST)
+                    .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+    public static final RegistryObject<Block> Hematite_Block = registerBlock("hematite_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST)
+                    .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+    public static final RegistryObject<Block> Covellite_Block = registerBlock("covellite_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.AMETHYST)
                     .requiresCorrectToolForDrops().strength(1f, 10f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
 

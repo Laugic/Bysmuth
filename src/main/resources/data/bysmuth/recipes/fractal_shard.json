@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bysmuth:thulite"
+    },
+    {
+      "item": "bysmuth:opal"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "bysmuth:covellite"
+    },
+    {
+      "item": "bysmuth:hematite"
+    },
+    {
+      "item": "bysmuth:onyx"
+    },
+    {
+      "item": "bysmuth:bronzite"
+    }
+  ],
+  "result": {
+    "item": "bysmuth:fractal_shard"
+  }
+}

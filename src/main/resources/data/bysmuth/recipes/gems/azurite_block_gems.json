@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "bysmuth:azurite"
+    }
+  },
+  "result": {
+    "item": "bysmuth:azurite_block",
+    "count": 1
+  }
+}

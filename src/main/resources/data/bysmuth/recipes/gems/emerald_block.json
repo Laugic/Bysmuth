@@ -1,0 +1,25 @@
+{
+  "type": "bysmuth:advanced_item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    },
+    {
+      "item": "minecraft:lime_stained_glass"
+    },
+    {
+      "item": "minecraft:lime_stained_glass"
+    },
+    {
+      "item": "minecraft:lime_stained_glass"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:emerald_block"
+    }
+  ]
+}

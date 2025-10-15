@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "bysmuth:opal"
+    }
+  },
+  "result": {
+    "item": "bysmuth:opal_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bysmuth:amber_block"
+    }
+  ],
+  "result": {
+    "item": "bysmuth:amber",
+    "count": 9
+  }
+}

@@ -17,6 +17,7 @@
   "item.bysmuth.onyx": "Onyx",
   "item.bysmuth.hematite": "Hematite",
   "item.bysmuth.covellite": "Covellite",
+  "item.bysmuth.thulite": "Thulite",
   "item.bysmuth.crucible": "Crucible",
   "item.bysmuth.lava_crucible": "Lava Crucible",
   "item.bysmuth.water_crucible": "Water Crucible",
@@ -26,6 +27,9 @@
   "item.bysmuth.sedimitt":  "Sedimitt",
   "item.bysmuth.bysmuth_chunk":  "Bysmuth Chunk",
   "item.bysmuth.bysmuth":  "Bysmuth",
+  "item.bysmuth.fractal_shard":  "Fractal Shard",
+  "item.bysmuth.prism_fragment":  "Prism Fragment",
+  "item.bysmuth.rose_gold":  "Rose Gold",
 
 
   "block.bysmuth.ntn_block": "NTN",
@@ -51,8 +55,25 @@
   "block.bysmuth.sedimitt_bud":  "Sedimitt Bud",
   "block.bysmuth.bysmuth_chunk_block":  "Bysmuth Chunk Block",
   "block.bysmuth.bysmuth_block":  "Bysmuth Block",
+  "block.bysmuth.mirrobserver":  "Mirrobserver",
+  "block.bysmuth.opal_block": "Opal Block",
+  "block.bysmuth.rhodonite_block": "Rhodonite Block",
+  "block.bysmuth.ruby_block": "Ruby Block",
+  "block.bysmuth.sapphire_block": "Sapphire Block",
+  "block.bysmuth.azurite_block": "Azurite Block",
+  "block.bysmuth.jade_block": "Jade Block",
+  "block.bysmuth.amber_block": "Amber Block",
+  "block.bysmuth.topaz_block": "Topaz Block",
+  "block.bysmuth.bronzite_block": "Bronzite Block",
+  "block.bysmuth.onyx_block": "Onyx Block",
+  "block.bysmuth.hematite_block": "Hematite Block",
+  "block.bysmuth.covellite_block": "Covellite Block",
+  "block.bysmuth.thulite_block": "Thulite Block",
 
   "entity.bysmuth.ignited_ntn": "Ignited NTN",
 
-  "jei.bysmuth.bysmuth_chunk.info": "Occasionally drops from Bysmur leaves on Bysmur trees."
+  "jei.bysmuth.bysmuth_chunk.info": "Occasionally drops from Bysmur leaves on Bysmur trees.",
+  "jei.bysmuth.lava_crucible.info": "Place a heat source stronger than a torch below a crucible, and any stone above it, and over time the stone will melt into the crucible.",
+  "jei.bysmuth.water_crucible.info": "Place leaves or moss above a crucible, and over time they will accumulate into water.",
+  "jei.bysmuth.trowel.info": "Right click a Composter with a Trowel to get Dirt instead of Bonemeal. Also has a chance to yield grass and seeds."
 }

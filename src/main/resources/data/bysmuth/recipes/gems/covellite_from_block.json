@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bysmuth:covellite_block"
+    }
+  ],
+  "result": {
+    "item": "bysmuth:covellite",
+    "count": 9
+  }
+}

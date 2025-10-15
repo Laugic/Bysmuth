@@ -15,6 +15,7 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.network.chat.TextComponent;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Items;
 import net.minecraft.world.level.block.Blocks;
 
 public class BlockRecipeCategory implements IRecipeCategory<BlockRecipe> {
@@ -27,7 +28,7 @@ public class BlockRecipeCategory implements IRecipeCategory<BlockRecipe> {
 
     public BlockRecipeCategory(IGuiHelper helper) {
         this.background = helper.createDrawable(TEXTURE, 0, 0, 110, 68);
-        this.icon = helper.createDrawableIngredient(VanillaTypes.ITEM, new ItemStack(Blocks.REPEATER));
+        this.icon = helper.createDrawableIngredient(VanillaTypes.ITEM, new ItemStack(Items.CLOCK));
     }
 
     @Override

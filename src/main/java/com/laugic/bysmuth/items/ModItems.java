@@ -74,6 +74,18 @@ public class ModItems {
     public static final RegistryObject<Item> Covellite = ITEMS.register("covellite",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
 
+    public static final RegistryObject<Item> Thulite = ITEMS.register("thulite",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> FractalShard = ITEMS.register("fractal_shard",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> PrismFragment = ITEMS.register("prism_fragment",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
+    public static final RegistryObject<Item> Rose_Gold = ITEMS.register("rose_gold",
+            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
+
 
     //BLOCK ITEMS
 

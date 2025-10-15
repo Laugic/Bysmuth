@@ -1,0 +1,25 @@
+{
+  "type": "bysmuth:advanced_item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "item": "minecraft:redstone_block"
+    },
+    {
+      "item": "minecraft:magenta_stained_glass"
+    },
+    {
+      "item": "minecraft:magenta_stained_glass"
+    },
+    {
+      "item": "minecraft:magenta_stained_glass"
+    }
+  ],
+  "results": [
+    {
+      "item": "bysmuth:rhodonite_block"
+    }
+  ]
+}

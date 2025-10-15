@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "FSP",
+    " C "
+  ],
+  "key": {
+    "S": {
+      "item": "bysmuth:fallen_star"
+    },
+    "F": {
+      "item": "bysmuth:fractal_shard"
+    },
+    "P": {
+      "item": "bysmuth:prism_fragment"
+    },
+    "C": {
+      "item": "bysmuth:bysmuth_chunk"
+    }
+  },
+  "result": {
+    "item": "bysmuth:bysmuth",
+    "count": 1
+  }
+}

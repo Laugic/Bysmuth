@@ -18,6 +18,7 @@ import net.minecraft.client.resources.language.I18n;
 import net.minecraft.network.chat.Component;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Items;
 import net.minecraft.world.item.crafting.RecipeManager;
 
 import java.util.List;
@@ -55,5 +56,13 @@ public class BysmuthJEI implements IModPlugin {
 
         ItemStack item = new ItemStack(ModItems.BysmuthChunk.get());
         registration.addIngredientInfo(item, VanillaTypes.ITEM_STACK, new TranslatableComponent("jei.bysmuth.bysmuth_chunk.info"));
+        ItemStack lava_crucible = new ItemStack(ModItems.Lava_Crucible.get());
+        registration.addIngredientInfo(lava_crucible, VanillaTypes.ITEM_STACK, new TranslatableComponent("jei.bysmuth.lava_crucible.info"));
+        ItemStack water_crucible = new ItemStack(ModItems.Water_Crucible.get());
+        registration.addIngredientInfo(water_crucible, VanillaTypes.ITEM_STACK, new TranslatableComponent("jei.bysmuth.water_crucible.info"));
+        ItemStack dirt = new ItemStack(Items.DIRT);
+        registration.addIngredientInfo(dirt, VanillaTypes.ITEM_STACK, new TranslatableComponent("jei.bysmuth.trowel.info"));
+        ItemStack trowel = new ItemStack(ModItems.WoodenTrowel.get());
+        registration.addIngredientInfo(trowel, VanillaTypes.ITEM_STACK, new TranslatableComponent("jei.bysmuth.trowel.info"));
     }
 }

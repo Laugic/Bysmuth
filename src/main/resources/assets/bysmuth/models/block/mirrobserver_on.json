@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "bysmuth:block/mirrobserver_top",
+    "side": "bysmuth:block/mirrobserver_side_on"
+  }
+}

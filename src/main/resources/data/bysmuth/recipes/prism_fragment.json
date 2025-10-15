@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bysmuth:ruby"
+    },
+    {
+      "item": "bysmuth:topaz"
+    },
+    {
+      "item": "bysmuth:amber"
+    },
+    {
+      "item": "bysmuth:jade"
+    },
+    {
+      "item": "bysmuth:azurite"
+    },
+    {
+      "item": "bysmuth:sapphire"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "bysmuth:rhodonite"
+    }
+  ],
+  "result": {
+    "item": "bysmuth:prism_fragment"
+  }
+}

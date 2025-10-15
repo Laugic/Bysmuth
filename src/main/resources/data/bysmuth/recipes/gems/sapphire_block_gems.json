@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "bysmuth:sapphire"
+    }
+  },
+  "result": {
+    "item": "bysmuth:sapphire_block",
+    "count": 1
+  }
+}

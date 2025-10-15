@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "bysmuth:chaos_powder"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cocoa_beans"
+  }
+}

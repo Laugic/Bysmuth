@@ -1,0 +1,25 @@
+{
+  "type": "bysmuth:advanced_item_application",
+  "ingredients": [
+    {
+      "item": "bysmuth:fallen_star"
+    },
+    {
+      "item": "minecraft:prismarine_bricks"
+    },
+    {
+      "item": "minecraft:cyan_stained_glass"
+    },
+    {
+      "item": "minecraft:cyan_stained_glass"
+    },
+    {
+      "item": "minecraft:cyan_stained_glass"
+    }
+  ],
+  "results": [
+    {
+      "item": "bysmuth:azurite_block"
+    }
+  ]
+}

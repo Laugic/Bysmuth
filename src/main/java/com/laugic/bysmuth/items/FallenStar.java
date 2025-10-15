@@ -21,12 +21,12 @@ public class FallenStar extends Item implements IOnUseForRecipeItem{
         {
             entity.level.addParticle(ParticleTypes.FIREWORK, entity.position().x, entity.position().y, entity.position().z, 0.0D, 0.0D, 0.0D);
             if(entity.level.getRandom().nextInt(20) == 0)
-                entity.level.playSound(entity.level.getNearestPlayer(entity, 120), entity, SoundEvents.AMETHYST_BLOCK_CHIME, SoundSource.AMBIENT, 1.0F, 1.0F);
+                entity.level.playSound(null, entity, SoundEvents.AMETHYST_BLOCK_CHIME, SoundSource.AMBIENT, 1.0F, 1.0F);
         }
         else
         {
             if(entity.level.getRandom().nextInt(20 * 8) == 0)
-                entity.level.playSound(entity.level.getNearestPlayer(entity, 120), entity, SoundEvents.AMETHYST_BLOCK_CHIME, SoundSource.AMBIENT, 1.0F, 1.0F);
+                entity.level.playSound(null, entity, SoundEvents.AMETHYST_BLOCK_CHIME, SoundSource.AMBIENT, 1.0F, 1.0F);
         }
         return super.onEntityItemUpdate(stack, entity);
     }

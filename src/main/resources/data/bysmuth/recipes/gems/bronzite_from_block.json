@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bysmuth:bronzite_block"
+    }
+  ],
+  "result": {
+    "item": "bysmuth:bronzite",
+    "count": 9
+  }
+}

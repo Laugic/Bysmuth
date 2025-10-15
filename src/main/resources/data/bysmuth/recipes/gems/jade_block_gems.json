@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "bysmuth:jade"
+    }
+  },
+  "result": {
+    "item": "bysmuth:jade_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "bysmuth:sweet_berries"
+    }
+  ],
+  "result": {
+    "item": "minecraft:glow_berries"
+  }
+}

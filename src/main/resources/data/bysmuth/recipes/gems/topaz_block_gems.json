@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "bysmuth:topaz"
+    }
+  },
+  "result": {
+    "item": "bysmuth:topaz_block",
+    "count": 1
+  }
+}

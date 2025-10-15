@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "bysmuth:ruby"
+    }
+  },
+  "result": {
+    "item": "bysmuth:ruby_block",
+    "count": 1
+  }
+}
